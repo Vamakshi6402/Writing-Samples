@@ -1,7 +1,5 @@
 # 📑 Professional Writing Samples – Vamakshi Chaturvedi
 
----
-
 This repository contains a curated portfolio of **10 professional writing samples**, along with a Cover Page and Index.  
 Prepared during and after my MSc Economics at the University of Manchester, these samples demonstrate versatility in communicating economic and financial insights to **different professional audiences** — including policymakers, consulting clients, financial analysts, NGOs, and the general public.
 
