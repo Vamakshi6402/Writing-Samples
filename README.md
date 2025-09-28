@@ -40,5 +40,4 @@ Last updated: September 2025 · Next planned update: Q1 2026
 
 © **2025 Vamakshi Chaturvedi**
 
-All rights reserved. The writing samples in this repository are original works prepared for academic and professional purposes.  
-They may not be copied, reproduced, or distributed without explicit permission from the author.
+All rights reserved. The writing samples in this repository are original works prepared for academic and professional purposes. They may not be copied, reproduced, or distributed without explicit permission from the author.
