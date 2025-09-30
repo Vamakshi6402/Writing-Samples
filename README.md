@@ -2,13 +2,13 @@
 
 This repository contains a curated portfolio of **11 professional writing samples**, along with a Cover Page and Index.  
 
-Prepared during and after my MSc Economics at the University of Manchester, these works demonstrate versatility in communicating complex economic and financial insights to **different professional audiences** — including policymakers, consulting clients, financial analysts, global institutions, and the general public.  
+Prepared during and after my MSc in Economics at the University of Manchester, these works demonstrate versatility in communicating complex economic and financial insights to diverse professional audiences — including policymakers, consulting clients, financial analysts, global institutions, and the general public.  
 
 ---
 
 ## 📂 Portfolio Contents
 
-- [Cover Page](docs/00_Cover_Page.pdf)  
+- [Cover Page](https://github.com/Vamakshi6402/Writing-Samples/blob/main/docs/00_Cover%20Page.pdf)
 - [Writing Samples Index](docs/01_Index.pdf)  
 
 ---
