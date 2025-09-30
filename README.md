@@ -2,7 +2,7 @@
 
 This repository contains a curated portfolio of **11 professional writing samples**, along with a Cover Page and Index.  
 
-Prepared during and after my MSc in Economics at the University of Manchester, these works demonstrate versatility in communicating complex economic and financial insights to diverse professional audiences — including policymakers, consulting clients, financial analysts, global institutions, and the general public.  
+Prepared during and after my MSc in Economics at the University of Manchester, these works demonstrate versatility in communicating complex economic and financial insights to **diverse professional audiences** — including policymakers, consulting clients, financial analysts, global institutions, and the general public.  
 
 ---
 
