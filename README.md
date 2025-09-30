@@ -39,10 +39,11 @@ Prepared during and after my MSc in Economics at the University of Manchester, t
 ---
 
 ## ✨ Highlights
+
 - Covers **policy, consulting, finance, data, trade, advocacy, and essays**.  
-- Includes **U.S.-centric finance and policy analysis** relevant to recruiters in New York.  
-- Demonstrates ability to tailor insights across audiences — from technical finance reports to advocacy briefs.  
-- Forms a comprehensive, recruiter-ready portfolio supporting both job applications and O-1 visa evidence.  
+- Includes **U.S.-centric finance and policy analysis** aligned with current industry practice and risk/regulatory themes.  
+- Each sample demonstrates a **distinct style and target audience**, from technical finance reports to advocacy briefs.  
+- Forms a **comprehensive, recruiter-ready portfolio** tailored for global employers.  
 
 ---
 
