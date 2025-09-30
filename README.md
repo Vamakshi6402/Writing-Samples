@@ -51,6 +51,6 @@ Prepared during and after my MSc Economics at the University of Manchester, thes
 
 ---
 
-**© 2025 Vamakshi Chaturvedi · All rights reserved.**  
+**© 2025 Vamakshi Chaturvedi**
 
-The writing samples in this repository are original works prepared for academic and professional purposes. They may not be copied, reproduced, or distributed without explicit permission from the author.
+All rights reserved. The writing samples in this repository are original works prepared for academic and professional purposes. They may not be copied, reproduced, or distributed without explicit permission from the author.
