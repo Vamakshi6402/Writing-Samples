@@ -52,6 +52,12 @@ Prepared during and after my MSc in Economics at the University of Manchester, t
 
 ---
 
+## 🔗 Related Links  
+👤 [My LinkedIn Profile](https://www.linkedin.com/in/vamakshi-chaturvedi-283827206/)  
+🧠 [My ORCID ID](https://orcid.org/0009-0003-3307-783X)
+
+---
+
 **© 2025 Vamakshi Chaturvedi. All rights reserved.**
 
 The writing samples in this repository are original works prepared for academic and professional purposes. They may not be copied, reproduced, or distributed without explicit permission from the author.
